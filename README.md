@@ -1,5 +1,10 @@
 # Atelier Calcul
 
+
+**[Ouvrir l’application Atelier calcul](https://atelier-calcul-famille.wisezebra2048.chatgpt.site)**
+
+L’application est privée et accessible aux personnes invitées. Ce dépôt contient actuellement sa documentation ; le transfert du code source reste à terminer.
+
 Application familiale d’entraînement au calcul : de petites séances générées à partir de modèles, une correction expliquée et un suivi des progrès.
 
 ## Fonctionnalités
